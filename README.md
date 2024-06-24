@@ -1,16 +1,19 @@
-### Hi there 👋
+### Seja bem vindo(a) ao meu perfil 💝
 
-<!--
-**heloisabombardini/heloisabombardini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Heloisa Bombardini
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript, pois estou atuando como professora de Tecnologia no estado de São Paulo
+- Utilizo esse espaço para minha organização e compartilhamento de projetos desenvolvidos durante o curso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**você pode entrar em contato comigo** 📫
+
+heloisabombardini@gmail.com
+
+heloisabombardini
+
+
+![](https://media1.tenor.com/m/dUcjIzlxL0IAAAAC/aww-shucks-bashful.gif)
+
+
+
